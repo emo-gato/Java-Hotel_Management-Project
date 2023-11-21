@@ -1,0 +1,5 @@
+Miruna,123,1234
+Ale,1234,1235,2,2023-01-02,2023-01-08,Burger,Sushi
+Alex,1222,1231,3,2023-01-03,2023-01-10,Salad,Steak
+Patricia,111,1212,4,2023-01-05,2023-01-12,Vegetarian,Indian
+Bogdan,773,129,5,2023-01-08,2023-01-15,Chinese,Vegan
